@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+checkpoints/
+data/
+command.sh
+params.p
+preprocess.p
+.floydignore
+__pycache__
+.floydexpt
